@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, This is Raj Chhalotre</h1>
+<h1 align="center">Hii There👋, This is Raj Chhalotre</h1>
 <h3 align="center">A passionate frontend developer, DSA Learner and AI enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
