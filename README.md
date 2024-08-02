@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, This is Raj Chhalotre</h1>
-<h3 align="center">A passionate Full-Stack web developer,AI enthusiast and Problem Solver</h3>
+<h3 align="center">A passionate Full-Stack web developer, AI enthusiast and Eager Learner</h3>
 
 - 👨‍💻My Portfolio Website; [https://raj-portfolio101.netlify.app/](https://raj-portfolio101.netlify.app/)
 
