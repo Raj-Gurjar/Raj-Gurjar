@@ -5,10 +5,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<!---
 <a href="mailto:rajchhalotre15@gmail.com" target="blank">
 <img align="center" src="https://www.svgrepo.com/svg/502648/email" alt="mail-img" height="30" width="40" />
-</a>
+</a> --->
 <a href="https://linkedin.com/in/raj-chhalotre-29jul01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkendIn-img" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raj_gurjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raj_gurjar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/raj_gurjar/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/raj_gurjar/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
